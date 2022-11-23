@@ -3,16 +3,20 @@ import data from "./ListData.json"
 
 function List(props) {
     //create a new array by filtering the original array
+    let noResults = ""
     const filteredData = data.filter((el) => {
+
         //if no input the return the original
         if (props.input === '') {
             return el;
         }
         //return the item which contains the user input (made lowercase)
         else {
-            return el.eng.toLowerCase().includes(props.input)
+          return el.eng.toLowerCase().includes(props.input)
         // if theres no matching search results
         }
+        return noResults = "no results"
+
     })
     return (
         <>
@@ -32,6 +36,7 @@ function List(props) {
                             <td>{item.romanji}</td>
                         </tr>
                     ))}
+                    <p>{noResults}</p>
                 </tbody>
 
             </table>
