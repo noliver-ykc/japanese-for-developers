@@ -10,7 +10,7 @@ function List(props) {
         }
         //return the item which contains the user input (made lowercase)
         else {
-            return el.jet_number.toLowerCase().includes(props.input)
+            return el.eng.toLowerCase().includes(props.input)
         // if theres no matching search results
         }
     })
