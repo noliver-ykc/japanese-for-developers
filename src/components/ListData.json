@@ -1,14 +1,14 @@
 [
   {
       "id": "1",
-      "eng": "20220950018",
-      "jpn": "A",
-      "romanji": "JIAMﾎｰﾙ(4F)"
+      "eng": "Data Structures",
+      "jpn": "データ構造",
+      "romanji": "Dēta kōzō"
   },
   {
       "id": "2",
-      "eng": "20211000004",
-      "jpn": "A",
-      "romanji": "JIAMﾎｰﾙ(4F)"
+      "eng": "Algorithim",
+      "jpn": "アルゴリズム",
+      "romanji": "Arugorizumu"
   }
 ]
