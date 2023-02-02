@@ -15,20 +15,24 @@
       "id": "3",
       "eng": "Request",
       "jpn": "要望",
-      "romanji": "Youbou",
+      "romanji": "Youbou"
+  },
   {
       "id": "4",
       "eng": "Understanding",
       "jpn": "理解",
-      "romanji": "Rikai",
+      "romanji": "Rikai"
+    },
   {
       "id": "5",
       "eng": "Priority",
       "jpn": "優先順位",
-      "romanji": "Yuusenjun'i",
+      "romanji": "Yuusenjun'i"
+    },
   {
       "id": "6",
       "eng": "Requirement",
       "jpn": "要件",
       "romanji": "Youken"
+  }
 ]
