@@ -15,7 +15,7 @@ function List(props) {
           return el.eng.toLowerCase().includes(props.input)
         // if theres no matching search results
         }
-        return noResults = "no results"
+        //return noResults = "no results"
 
     })
     return (
