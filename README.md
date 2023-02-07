@@ -4,15 +4,11 @@ This project was built to help in my journey to become a front end developer at 
 
 ## How to use Japanese for Developers?
 
-The content of Japanese for Developers is available in two different ways. You can either chose a category from below to view the markup page on github, or you can traverse our github pages site (coming soon).
-
-General Vocab
-Interview Prep
-Dealing with Clients
+The content of Japanese for Developers is available in two different ways. You may choose to view the raw json data on our github, or use our simple search tool https://japanese-for-devs.netlify.app/
 
 ### How to contribute?
-
-note: The project website was built with react and aggregated into a single json file and the github repo is mainly in markdown. When adding new vocabulary, *please add them in both locations*. 
+Please for this repository and pushes changes there!
+The project website was built with react and aggregated into a single json file, please add your new vocab to the end of the json file. 
 
 
 ### Note 
