@@ -34,5 +34,11 @@
       "eng": "Requirement",
       "jpn": "要件",
       "romanji": "Youken"
+  },
+  {
+      "id": "7",
+      "eng": "Hard code",
+      "jpn": "ベタ打ち",
+      "romanji": "Beta-uchi"
   }
 ]
