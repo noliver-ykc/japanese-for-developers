@@ -40,5 +40,11 @@
       "eng": "Hard code",
       "jpn": "ベタ打ち",
       "romanji": "Beta-uchi"
+  },
+  {
+      "id": "8",
+      "eng": "Screenshot",
+      "jpn": "スクショ",
+      "romanji": "Suko-sho"
   }
 ]
