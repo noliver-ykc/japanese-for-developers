@@ -46,5 +46,11 @@
       "eng": "Screenshot",
       "jpn": "スクショ",
       "romanji": "Suko-sho"
+  },
+  {
+      "id": "9",
+      "eng": "Ternary operator",
+      "jpn": "三項演算子",
+      "romanji": "Sankou-enzanshi"
   }
 ]
